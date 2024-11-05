@@ -13,58 +13,72 @@
 - [Kundentypen](#kundentypen)
 - [4 Ps](#4-ps)
 - [Preisstrategien](#preisstrategien)
-- [Englische-Begriffe](#englische-begriffe)
+- [Englische Begriffe](#englische-begriffe)
 
 ## Organisationen 
-- Aufbauorganisation: Stellen, Hierarchy + Kompetenz und Verantwortung
-
+- Aufbauorganisation: Stellen, Hierarchie + Kompetenz und Verantwortung
 - Ablauforganisation: Häufig vorkommende Abläufe standardisieren, Informationsflüsse
-## Stabstelle
+
+### Stabstelle
 - unterstützen Leitungsstelle 
 - Entscheidungen, Informationen, Berichte, Kontrollaufgaben
 - Entscheidung trifft aber Geschäftsleitung
+
 ## Gliederung 
-- Funktional: z.B. Verkauf, Einkauf, Produktion
-	- Pos: hohe Spezialisierung, tiefe Arbeitsteilung (Effizient), klare Verantwortung, klare Kommunikation
-	- Neg: Kommunikation nur über Leitung (Überlastung), §Probleme von einem direkt auf andere, eigene Ziele, langsam auf Änderungen reagieren  
-- Objekt (Sparten, Divisional): Produkte, Region, Kundensegmente 
-	- Pos: können sich auf eine Produktgruppe spezialisieren, Verantwortungen klar abgegrenzt, hohe Flexibilität, kurze Kommunikationswege, mehr Verantwortung
-	- Neg: können Kunden nur in eigener Sparte beraten, interen Konkurenz, mehrere Gleiche Abteilungen (mehr Kosten), hoher Koordinationsaufwand, Spartenegoismus 
+- **Funktional**: z.B. Verkauf, Einkauf, Produktion
+  - **Pos**: hohe Spezialisierung, tiefe Arbeitsteilung (Effizient), klare Verantwortung, klare Kommunikation
+  - **Neg**: Kommunikation nur über Leitung (Überlastung), §Probleme von einem direkt auf andere, eigene Ziele, langsam auf Änderungen reagieren  
+- **Objekt (Sparten, Divisional)**: Produkte, Region, Kundensegmente 
+  - **Pos**: können sich auf eine Produktgruppe spezialisieren, Verantwortungen klar abgegrenzt, hohe Flexibilität, kurze Kommunikationswege, mehr Verantwortung
+  - **Neg**: können Kunden nur in eigener Sparte beraten, interne Konkurrenz, mehrere gleiche Abteilungen (mehr Kosten), hoher Koordinationsaufwand, Spartenegoismus 
+
 ## Systeme
-![[Pasted image 20241101084305.png]]
+![Systeme](./Pasted%20image%2020241101084305.png)
+
 ## Netzplan 
 - Mitte 0 (GP) = Kritischer Pfad
-![[Pasted image 20241105171928.png]]
+
+![Netzplan](./Pasted%20image%2020241105171928.png)
+
 ## Marktforschung
-- Primäre Marktforschung: Neue Daten (Befragungen, Experimente)
-	Pos: aktuelle Infos
-	Neg: Aufwand + Kosten (Institute)
-	wichtig: Representative Gruppen 
-- Sekundäre Marktforschung: Vorhandene Daten (intern, extern): 
-	intern: Kundenliste, Absatzstatistiken, Controllingberichte 
-	Pos: geringe Kosten
-	Neg: nicht aktuell 
+- **Primäre Marktforschung**: Neue Daten (Befragungen, Experimente)
+  - **Pos**: aktuelle Infos
+  - **Neg**: Aufwand + Kosten (Institute)
+  - wichtig: Representative Gruppen 
+- **Sekundäre Marktforschung**: Vorhandene Daten (intern, extern): 
+  - **intern**: Kundenliste, Absatzstatistiken, Controllingberichte 
+  - **Pos**: geringe Kosten
+  - **Neg**: nicht aktuell 
+
 ## Marktformen 
-![[Pasted image 20241101111108.png]]
+![Marktformen](./Pasted%20image%2020241101111108.png)
+
 ## Märkte 
-![[Pasted image 20241101111853.png]]
-![[Pasted image 20241101112236.png]]
-![[Pasted image 20241101112303.png]]
+![Märkte 1](./Pasted%20image%2020241101111853.png)
+![Märkte 2](./Pasted%20image%2020241101112236.png)
+![Märkte 3](./Pasted%20image%2020241101112303.png)
+
 ## 5-Kräfte-Modell 
-![[Pasted image 20241101112600.png]]
+![5-Kräfte-Modell](./Pasted%20image%2020241101112600.png)
+
 ## BCG
-![[Pasted image 20241101113102.png]]
+![BCG](./Pasted%20image%2020241101113102.png)
+
 ## Lebenszyklus 
-![[Pasted image 20241101141308.png]]
+![Lebenszyklus](./Pasted%20image%2020241101141308.png)
+
 ## Kundentypen
-![[Pasted image 20241101160802.png]]
-# 4-Ps
-- Product 
-- Price
-- Promotion 
-- Place
+![Kundentypen](./Pasted%20image%2020241101160802.png)
+
+# 4 Ps
+- **Product**
+- **Price**
+- **Promotion**
+- **Place**
+
 ## Preisstrategien 
-![[Pasted image 20241101164131.png]]
+![Preisstrategien](./Pasted%20image%2020241101164131.png)
+
 ## Englische-Begriffe
 
 | Englisch                      | Deffinition                                                                      | Deutsch                        |
