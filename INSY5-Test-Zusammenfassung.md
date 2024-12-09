@@ -82,6 +82,7 @@ KI->ML->DL
 6. Testeinsatz
 ### Linear Regression
 - ``x_axis = data[['Number_of_Stores']]`` ``y_axis = data['Profit']``
+- ``X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)``
 - ``model = LinearRegression()`` ``model.fit(x_axis, y_axis)``
 - ``model.coef_[0]`` -> k
 - ``model.intercept_`` -> d
